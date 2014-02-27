@@ -24,5 +24,17 @@
   },
   "scripts": {
     "test": "make test"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/blue68/hash-proxy/issues"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "keywords": [
+    "hash",
+    "proxy",
+    "browser"
+  ],
+  "license": "BSD"
 }

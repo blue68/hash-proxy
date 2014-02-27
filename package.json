@@ -1,0 +1,28 @@
+{
+  "name": "hash-proxy",
+  "version": "0.0.1",
+  "description": "浏览器端Hash代理",
+  "main": "index.js",
+  "author": "blune68 <chaoqiang.tian@gmail.com>",
+  "dependencies": {
+    "coffee-script": "*"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "jscover": "*",
+    "jquery": "1.8.3",
+    "jsdom": "*",
+    "expect.js": "*"
+  },
+  "engines": [
+    "node >=0.8.14"
+  ],
+  "homepage": "https://github.com/blue68/hash-proxy",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/blue68/hash-proxy.git"
+  },
+  "scripts": {
+    "test": "make test"
+  }
+}

@@ -10,7 +10,7 @@
   "devDependencies": {
     "mocha": "*",
     "jscover": "*",
-    "jquery": "1.8.3",
+    "jquery": "3.0.0",
     "jsdom": "*",
     "expect.js": "*"
   },
